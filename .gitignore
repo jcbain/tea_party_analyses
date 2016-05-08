@@ -1,0 +1,6 @@
+## large data files ##
+data/tea_party_full.csv
+
+## history logs ##
+.ipynb_checkpoints
+
